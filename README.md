@@ -1,10 +1,5 @@
 # 停车场管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**停车场2** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -61,12 +56,3 @@
 ![管理员-停车缴费2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536044.jpg)
 
 ![管理员-停车记录查询](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208091536563.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**停车场2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
